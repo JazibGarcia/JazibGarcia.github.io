@@ -1,0 +1,15 @@
+      html {font-family: sans-serif; text-align: center}
+      body {display: inline-block; text-align: left}
+      *:required {border: thin solid blue}
+      output {font-weight: bold}
+      footer {font-size: small}   
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18/06/2021, 02:25:35 PM
+    Author     : Jazib
+*/
+
